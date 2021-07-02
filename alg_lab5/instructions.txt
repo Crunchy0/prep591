@@ -1,0 +1,2 @@
+Запуск .jar-файла (cmd):
+java -jar alg_lab5.jar
